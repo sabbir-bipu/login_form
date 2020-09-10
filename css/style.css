@@ -67,6 +67,7 @@ body{
   .btnn:hover{
       color: #000;
       background: #d32f2f;
+      font-weight: bolder;
       border: 3px solid #fff;
       box-shadow: 0 0 10px #d32f2f, 0 0 40px #d32f2f, 0 0 80px #d32f2f;
   }
